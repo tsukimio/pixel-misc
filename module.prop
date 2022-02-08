@@ -3,3 +3,6 @@ name=pixel misc
 version=100
 author=n3rd3x3
 description=Installs miscellaneous Pixel apps to add functions.
+support=https://github.com/tsukimio/systemui-bootloop
+minMagisk=2400
+updateJson=https://tsukimio.github.io/pixel-misc/update.json
